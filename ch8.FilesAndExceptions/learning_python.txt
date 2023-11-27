@@ -1,0 +1,3 @@
+In Python you can create wonderful programs
+In Python you can create constants and functions
+In Python you can change the world
